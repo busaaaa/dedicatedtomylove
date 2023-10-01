@@ -63,7 +63,7 @@ const songs = [
         artist: 'SunKissed Lola',
     },
     {
-        path: "Only.mp3",
+        path: "ONLY.mp3",
         displayName: "Only",
         cover: 'hazel9.jpg',
         artist: 'Lee Hi',
