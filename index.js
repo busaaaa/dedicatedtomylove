@@ -1,4 +1,4 @@
-alert('Happy GF Day My Love of My Life <33');
+alert('Dedicated to My Love of My Life <33');
 const image = document.getElementById('cover'),
     title = document.getElementById('music-title'),
     artist = document.getElementById('music-artist'),
