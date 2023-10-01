@@ -57,13 +57,13 @@ const songs = [
         artist: 'beabadoobee',
     },
     {
-        path: "pasilyo.mp3",
+        path: "Pasilyo.mp3",
         displayName: "Pasilyo",
         cover: 'hazel8.jpg',
         artist: 'SunKissed Lola',
     },
     {
-        path: "only.mp3",
+        path: "Only.mp3",
         displayName: "Only",
         cover: 'hazel9.jpg',
         artist: 'Lee Hi',
