@@ -74,6 +74,12 @@ const songs = [
         cover: 'hazel10.jpg',
         artist: 'Bruno Major',
     },
+     {
+        path: "Goo Goo Dolls - Iris (Lyrics).mp3",
+        displayName: "Iris",
+        cover: 'hazel4.jpg',
+        artist: 'Goo Goo Dolls',
+    },
 ];
 
 let musicIndex = 0;
